@@ -1,0 +1,8 @@
+.created {
+	text-align: center;
+}
+
+.created > h2 {
+	font-size: 1em;
+	color: red;
+}
